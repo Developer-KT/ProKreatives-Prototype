@@ -6,7 +6,7 @@ import Homepage from "./Pages/Homepage";
 import ServicesPage from "./Pages/ServicesPage";
 import { useEffect, useState } from "react";
 import ContactPage from "./Pages/ContactPage";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 import OurWorkPage from "./Pages/OurWorkPage";
 import RedirectHandler from "./components/RedirectHandler";
 
